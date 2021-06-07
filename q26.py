@@ -10,4 +10,5 @@ class Solution:
                 else:
                     i+=1
                     j+=1
-            return len(nums)
+                    leng = len(nums)
+            return leng
